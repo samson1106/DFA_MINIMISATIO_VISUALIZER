@@ -31,9 +31,9 @@
 ```bash
 DFA-Minimizer-Visualizer/
 │
-├── index1.html        # UI structure
-├── style1.css         # Styling (Event Horizon theme)
-├── script1.js         # DFA logic + Algorithms + Rendering
+├── index.html        # UI structure
+├── style.css         # Styling (Event Horizon theme)
+├── script.js         # DFA logic + Algorithms + Rendering
 │
 └── README.md         # Documentation
 ```
@@ -57,7 +57,7 @@ code .
 
 ### 3️⃣ Run the Project
 
-* Open `index1.html`
+* Open `index.html`
 * Right click → **Open with Live Server** (Recommended)
   OR
 * Simply open in browser
